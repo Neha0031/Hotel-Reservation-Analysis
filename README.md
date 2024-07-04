@@ -1,5 +1,6 @@
 # Hotel-Reservation-Analysis
 -- Hotel Reservation Analysis
+
 -- This SQL file contains queries to analyze the hotel reservation dataset.
 
 -- 1. Total number of reservations
